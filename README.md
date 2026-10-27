@@ -5,6 +5,16 @@ Active B.Tech Undergraduate Researcher in Computer Science Engineering (AI/ML) a
 🎯 **Current Status:** Academic application validated — Under active consideration for the **Mitacs Globalink Research Internship (GRI) 2027 Cohort** via the AICTE pathway.
 
 ---
+💼 **Professional & Research Experience:** 
+* **AICTE – EduSkills Research Intern (Quantum Computing):** Completed a structured 8-week virtual research program focusing on circuit construction using **Qiskit**, **Quantum Machine Learning (QML)**, and **Quantum Neural Networks (QNN)**.
+
+---
+
+### 🛠️ Core Engineering & AI Competencies
+* **Quantum & Advanced Computing:** Qiskit Circuit Design, Quantum Mechanics Foundations (Superposition, Entanglement), Linear Algebra & Complex Number Matrices.
+* **Computational Intelligence:** Autonomous LLM Multi-Agent Orchestration, Computer Vision Feature Extraction, Predictive Time-Series Anomaly Triage.
+* **Software Engineering:** Python (FastAPI, Scikit-Learn, OpenCV), Java (Spring Boot 3.3, Hibernate, JPA), React 18.
+
 
 ### 🛠️ Core Engineering & AI Competencies
 
