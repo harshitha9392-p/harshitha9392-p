@@ -18,11 +18,11 @@ Active B.Tech Undergraduate Researcher in Computer Science Engineering (AI/ML) a
 
 ### 🛠️ Core Engineering & AI Competencies
 
+* **Quantum & Advanced Computing:** Qiskit Circuit Design, Quantum Mechanics Foundations (Superposition, Entanglement), Linear Algebra & Complex Number Matrices.
 * **Computational Intelligence:** Autonomous LLM Multi-Agent Orchestration, Computer Vision Feature Extraction, Predictive Time-Series Anomaly Triage.
-* **Software Engineering & Frameworks:** Python (FastAPI, Scikit-Learn, OpenCV), Java (Spring Boot 3.3, Hibernate, JPA), JavaScript (React 18).
+* **Software Engineering & Frameworks:** Python (FastAPI, Scikit-Learn, OpenCV), Java (Spring Boot 3.3, Hibernate, JPA), JavaScript/TypeScript (React 18).
 * **System Design & AI Safety:** Non-Bypassable Server-Side Policy Gates, Dual-mode Databases (MySQL / Embedded H2), SHA-256 Tamper-Evident Transaction Ledgers.
 
----
 
 ### 🔬 Featured Systems Engineering & AI Assets
 
