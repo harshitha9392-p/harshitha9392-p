@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Harshitha! 👋
 
-<!--
-**harshitha9392-p/harshitha9392-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Active B.Tech Undergraduate Researcher in Computer Science Engineering (AI/ML) at **SRM University**. I specialize in Applied Computational Intelligence, Core AI Microservices, and Secure Software Architectures.
 
-Here are some ideas to get you started:
+🎯 **Current Status:** Academic application validated — Under active consideration for the **Mitacs Globalink Research Internship (GRI) 2027 Cohort** via the AICTE pathway.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Core Engineering & AI Competencies
+
+* **Computational Intelligence:** Autonomous LLM Multi-Agent Orchestration, Computer Vision Feature Extraction, Predictive Time-Series Anomaly Triage.
+* **Software Engineering & Frameworks:** Python (FastAPI, Scikit-Learn, OpenCV), Java (Spring Boot 3.3, Hibernate, JPA), JavaScript (React 18).
+* **System Design & AI Safety:** Non-Bypassable Server-Side Policy Gates, Dual-mode Databases (MySQL / Embedded H2), SHA-256 Tamper-Evident Transaction Ledgers.
+
+---
+
+### 🔬 Featured Systems Engineering & AI Assets
+
+#### 🤖 1. AgentStore: Autonomous AI Growth & Agentic Commerce Platform
+* Engineered a secure framework using **FastAPI** and **PostgreSQL** that converts arbitrary data catalogs into agent-readable schemas.
+* Built **5 server-side security policy gates** to eliminate Large Language Model (LLM) price hallucinations during automated checkout loops.
+* Integrated an immutable **SHA-256 cryptographic audit ledger** to mathematically validate transaction history integrity.
+
+#### 🌾 2. Farmo Trade Direct: Distributed Farmer-to-Enterprise Marketplace
+* Designed a multi-language service grid using **Java Spring Boot 3.3** for transactional routing and a **Python REST microservice** for analytical models.
+* Implemented multi-factor price prediction algorithms alongside an **OpenCV computer vision produce grader** for autonomous crop quality classification.
+
+#### 🛡️ 3. GuardianTwin: Enterprise AI Digital Twin & Predictive Monitoring Engine
+* Developed an asynchronous telemetry ingestion engine designed to process volatile real-time environment sensor data.
+* Programmatically maps environments into high-fidelity digital models to execute real-time predictive anomaly diagnostics.
+
+---
+
+### 📬 Academic Context & Connection
+* **Institution:** SRM University
+* **Department:** Computer Science Engineering — Artificial Intelligence & Machine Learning (CSE AI/ML)
